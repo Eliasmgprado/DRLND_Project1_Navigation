@@ -37,3 +37,12 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+
+The implementation was divided in the following python files:
+
+ - agent.py (Implementation of the Q_Learning agents)
+ - memory.py (Implementation of the replay memory)
+ - nn.py (Implementation of the Q-Network)
+ - test_sumtree.py (Unittests for the sumtree implementation)
+
+
